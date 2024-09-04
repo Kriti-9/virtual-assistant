@@ -66,7 +66,7 @@ pip install SpeechRecognition playsound gtts pyttsx3 pyautogui pillow beautifuls
 - "Hey, how are you?"
 - "What's the time?"
 - "Search for Python programming"
-- "Play music for Shape of You"
+- "Play music for No Suprises"
 - "What's the weather like today?"
 - "Take a screenshot"
 - "Definition of Python"
